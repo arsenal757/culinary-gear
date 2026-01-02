@@ -1,0 +1,1211 @@
+{
+  "categories": [
+    {
+      "id": "basculas-peso-precio",
+      "name": "Básculas Peso-Precio",
+      "description": "Básculas con función de caja registradora para ventas al por menor"
+    },
+    {
+      "id": "basculas-contadoras",
+      "name": "Básculas Contadoras",
+      "description": "Básculas con función de conteo de piezas"
+    },
+    {
+      "id": "basculas-porcionadoras",
+      "name": "Básculas Porcionadoras",
+      "description": "Básculas para cálculo de porciones alimenticias"
+    },
+    {
+      "id": "basculas-precision",
+      "name": "Básculas de Precisión",
+      "description": "Básculas de alta precisión para uso profesional"
+    },
+    {
+      "id": "basculas-agua",
+      "name": "Básculas a Prueba de Agua",
+      "description": "Básculas resistentes al agua para ambientes húmedos"
+    },
+    {
+      "id": "basculas-etiquetadoras",
+      "name": "Básculas Etiquetadoras",
+      "description": "Básculas con impresora de etiquetas térmicas"
+    },
+    {
+      "id": "basculas-colgantes",
+      "name": "Básculas Colgantes",
+      "description": "Básculas colgantes de diferentes capacidades"
+    },
+    {
+      "id": "basculas-plataforma",
+      "name": "Básculas de Plataforma",
+      "description": "Básculas de plataforma plegables e inalámbricas"
+    },
+    {
+      "id": "basculas-5kg",
+      "name": "Básculas de 5 kg",
+      "description": "Básculas circulares y de plato para uso general"
+    },
+    {
+      "id": "basculas-corporales",
+      "name": "Básculas Corporales",
+      "description": "Básculas para pesaje corporal y análisis de composición"
+    },
+    {
+      "id": "basculas-mascotas",
+      "name": "Básculas para Mascotas",
+      "description": "Básculas especializadas para mascotas"
+    },
+    {
+      "id": "basculas-bebes",
+      "name": "Básculas para Bebés",
+      "description": "Básculas seguras para pesaje de bebés"
+    },
+    {
+      "id": "indicadores",
+      "name": "Indicadores para Básculas",
+      "description": "Indicadores digitales para básculas industriales"
+    },
+    {
+      "id": "batidoras",
+      "name": "Batidoras Planetarias",
+      "description": "Batidoras planetarias de diferentes capacidades"
+    },
+    {
+      "id": "amasadoras",
+      "name": "Amasadoras",
+      "description": "Amasadoras profesionales para panadería"
+    },
+    {
+      "id": "molinos-carne",
+      "name": "Molinos de Carne",
+      "description": "Molinos de carne industriales y semi-industriales"
+    },
+    {
+      "id": "turbolicuadores",
+      "name": "Turbolicuadores",
+      "description": "Turbolicuadores de alta potencia"
+    },
+    {
+      "id": "rebanadoras",
+      "name": "Rebanadoras",
+      "description": "Rebanadoras de alimentos industriales"
+    },
+    {
+      "id": "procesador-alimentos",
+      "name": "Procesador de Alimentos",
+      "description": "Procesadores con discos intercambiables"
+    },
+    {
+      "id": "sierra-carnicera",
+      "name": "Sierra Carnicera",
+      "description": "Sierras para corte de carnes"
+    },
+    {
+      "id": "empacadoras-vacio",
+      "name": "Empacadoras al Vacío",
+      "description": "Empacadoras al vacío de diferentes capacidades"
+    },
+    {
+      "id": "selladoras",
+      "name": "Selladoras de Impulso",
+      "description": "Selladoras de bolsas de polipropileno"
+    },
+    {
+      "id": "empleyadora",
+      "name": "Emplayadora de Alimentos",
+      "description": "Emplayadora de alimentos con corte térmico"
+    },
+    {
+      "id": "plancha-panini",
+      "name": "Plancha Panini",
+      "description": "Planchas para preparación de paninis"
+    },
+    {
+      "id": "maquina-helados",
+      "name": "Máquina de Helados",
+      "description": "Máquina de helados de dispensación"
+    },
+    {
+      "id": "cuchilleria",
+      "name": "Cuchillería Profesional",
+      "description": "Cuchillos profesionales para cocina"
+    },
+    {
+      "id": "utensilios-cocina",
+      "name": "Utensilios para Cocina",
+      "description": "Utensilios profesionales para restaurante"
+    },
+    {
+      "id": "insertos",
+      "name": "Insertos, Tapas y Drenadores",
+      "description": "Insertos de acero inoxidable y policarbonato"
+    },
+    {
+      "id": "material-punto-venta",
+      "name": "Material Punto de Venta",
+      "description": "Exhibidores y material promocional"
+    }
+  ],
+  "products": [
+    {
+      "id": "BAR-6",
+      "name": "BÁSCULA PESO - PRECIO BAR-6",
+      "category": "basculas-peso-precio",
+      "capacity": "20 kg",
+      "precision": "2 g",
+      "description": "Función de caja registradora, conteo de piezas y alarma de sobrepeso. Pantallas iluminadas para usuario y cliente.",
+      "features": ["20 kg / 44 lb", "2 g / 0.005 lb", "Plato de acero inoxidable", "Batería recargable"],
+      "badge": "Popular"
+    },
+    {
+      "id": "BAR-6X",
+      "name": "BÁSCULA PESO - PRECIO CON PUERTO USB BAR-6X",
+      "category": "basculas-peso-precio",
+      "capacity": "20 kg",
+      "precision": "2 g",
+      "description": "Incluye puerto USB para comunicación. Función de caja registradora y conteo de piezas.",
+      "features": ["20 kg / 44 lb", "2 g / 0.005 lb", "Puerto USB", "Pantallas iluminadas"],
+      "badge": "USB"
+    },
+    {
+      "id": "BAR-7",
+      "name": "BÁSCULA PESO - PRECIO BAR-7",
+      "category": "basculas-peso-precio",
+      "capacity": "30 kg",
+      "precision": "2 g / 5 g",
+      "description": "Multirango de precisión: 2g (0-15kg) y 5g (15-30kg). Función de caja registradora mejorada.",
+      "features": ["30 kg / 66 lb", "Multirango", "Plato 28x22.5 cm", "Batería de litio"],
+      "badge": "Multirango"
+    },
+    {
+      "id": "BAR-8",
+      "name": "BÁSCULA PESO - PRECIO BAR-8",
+      "category": "basculas-peso-precio",
+      "capacity": "40 kg",
+      "precision": "2 g",
+      "description": "Mayor capacidad con 3 memorias de acceso directo. Pantallas iluminadas dobles.",
+      "features": ["40 kg / 88 lb", "2 g / 0.005 lb", "3 memorias directas", "Clase Fina II"],
+      "badge": "40 kg"
+    },
+    {
+      "id": "BAR-8RS",
+      "name": "BÁSCULA PESO - PRECIO CON PUERTO USB BAR-8RS",
+      "category": "basculas-peso-precio",
+      "capacity": "40 kg",
+      "precision": "2 g",
+      "description": "Con puerto USB para conectividad. Ideal para sistemas POS.",
+      "features": ["40 kg / 88 lb", "2 g / 0.005 lb", "Puerto USB", "Batería 4V 4Ah"],
+      "badge": "USB"
+    },
+    {
+      "id": "BAR-8T",
+      "name": "BÁSCULA PESO - PRECIO CON TORRETA BAR-8T",
+      "category": "basculas-peso-precio",
+      "capacity": "40 kg",
+      "precision": "2 g",
+      "description": "Incluye torreta con pantallas iluminadas para cliente. Diseño profesional.",
+      "features": ["40 kg / 88 lb", "2 g / 0.005 lb", "Torreta incluida", "Plato 35.5x23.5 cm"],
+      "badge": "Con Torreta"
+    },
+    {
+      "id": "BAR-9",
+      "name": "BÁSCULA PESO - PRECIO CON PUERTO USB BAR-9",
+      "category": "basculas-peso-precio",
+      "capacity": "40 kg",
+      "precision": "2 g",
+      "description": "Báscula peso-precio con puerto RS-232 y USB. Comunicación en red.",
+      "features": ["40 kg / 88 lb", "2 g / 0.005 lb", "Puerto USB", "Comunicación RS-232"],
+      "badge": "USB"
+    },
+    {
+      "id": "BAR-10",
+      "name": "BÁSCULA PESO - PRECIO PLATO GRANDE BAR-10",
+      "category": "basculas-peso-precio",
+      "capacity": "60 kg",
+      "precision": "5 g",
+      "description": "Plato grande de acero inoxidable. Capacidad de 60 kg para productos pesados.",
+      "features": ["60 kg / 132 lb", "5 g / 0.01 lb", "Plato 36x26 cm", "Pantallas iluminadas"],
+      "badge": "60 kg"
+    },
+    {
+      "id": "VINS-20",
+      "name": "BÁSCULA PESO - PRECIO VINS-20",
+      "category": "basculas-peso-precio",
+      "capacity": "20 kg",
+      "precision": "5 g",
+      "description": "Función de caja registradora y conteo de piezas.",
+      "features": ["20 kg / 44 lb", "5 g / 0.01 lb", "Plástico", "Plato 29x22 cm"],
+      "badge": "Nuevo"
+    },
+    {
+      "id": "VINS-30",
+      "name": "BÁSCULA PESO - PRECIO VINS-30",
+      "category": "basculas-peso-precio",
+      "capacity": "30 kg",
+      "precision": "5 g",
+      "description": "Pantallas iluminadas. Función conteo de piezas.",
+      "features": ["30 kg / 66 lb", "5 g / 0.01 lb", "Acero inoxidable", "Plato 27.5x21.5 cm"],
+      "badge": "Nuevo"
+    },
+    {
+      "id": "VINS-40",
+      "name": "BÁSCULA PESO - PRECIO VINS-40",
+      "category": "basculas-peso-precio",
+      "capacity": "40 kg",
+      "precision": "5 g",
+      "description": "Mayor rango de visualización en pantallas.",
+      "features": ["40 kg / 88 lb", "5 g / 0.01 lb", "Acero inoxidable", "Plato 33x24 cm"],
+      "badge": "Nuevo"
+    },
+    {
+      "id": "BACO-30",
+      "name": "BÁSCULA CONTADORA BACO-30",
+      "category": "basculas-contadoras",
+      "capacity": "30 kg",
+      "precision": "1 g",
+      "description": "Función de conteo de piezas con gran precisión. Puerto RS-232 para conectividad.",
+      "features": ["30 kg / 66 lb", "1 g / 0.002 lb", "Función conteo", "Puerto RS-232"],
+      "badge": "Contadora"
+    },
+    {
+      "id": "BAPO-10",
+      "name": "BÁSCULA PORCIONADORA BAPO-10",
+      "category": "basculas-porcionadoras",
+      "capacity": "10 kg",
+      "precision": "1 g",
+      "description": "Función de cálculo de porciones y conteo de piezas. Pantalla iluminada.",
+      "features": ["10 kg / 22 lb", "1 g / 0.002 lb", "Cálculo de porciones", "Plato 30x23 cm"],
+      "badge": "Porcionadora"
+    },
+    {
+      "id": "BAPO-10X",
+      "name": "BÁSCULA PORCIONADORA CON USB BAPO-10X",
+      "category": "basculas-porcionadoras",
+      "capacity": "10 kg",
+      "precision": "1 g",
+      "description": "Porcionadora con puerto USB para conectividad con sistemas.",
+      "features": ["10 kg / 22 lb", "1 g / 0.002 lb", "Puerto USB", "Pantalla iluminada"],
+      "badge": "USB"
+    },
+    {
+      "id": "BAPO-15",
+      "name": "BÁSCULA PORCIONADORA BAPO-15",
+      "category": "basculas-porcionadoras",
+      "capacity": "15 kg",
+      "precision": "5 g",
+      "description": "Mayor capacidad para porcionamiento de ingredientes.",
+      "features": ["15 kg / 33 lb", "5 g / 0.01 lb", "Función conteo", "Plato 24x20 cm"],
+      "badge": "15 kg"
+    },
+    {
+      "id": "BABOL-100G",
+      "name": "BÁSCULA DE PRECISIÓN BABOL-100G",
+      "category": "basculas-precision",
+      "capacity": "100 g",
+      "precision": "0.01 g",
+      "description": "Báscula de precisión con protector contra corrientes de aire.",
+      "features": ["100 g / 3.5 oz", "0.01 g", "Báscula de bolsillo", "2 baterías CR2032"],
+      "badge": "0.01 g"
+    },
+    {
+      "id": "BAPRE-600",
+      "name": "BÁSCULA DE PRECISIÓN BAPRE-600",
+      "category": "basculas-precision",
+      "capacity": "600 g",
+      "precision": "0.01 g",
+      "description": "Precisión de 0.01g con puerto USB para conectividad.",
+      "features": ["600 g / 1.3 lb", "0.01 g / 0.001 lb", "Puerto USB", "Batería recargable"],
+      "badge": "USB"
+    },
+    {
+      "id": "BAPRE-2600",
+      "name": "BÁSCULA DE PRECISIÓN BAPRE-2600",
+      "category": "basculas-precision",
+      "capacity": "2,600 g",
+      "precision": "0.1 g",
+      "description": "Mayor capacidad con charola que puede voltearse.",
+      "features": ["2,600 g / 5.7 lb", "0.1 g / 0.001 lb", "Charola reversible", "Plato 17x17 cm"],
+      "badge": "2.6 kg"
+    },
+    {
+      "id": "BAPRE-1",
+      "name": "BÁSCULA DE PRECISIÓN BAPRE-1",
+      "category": "basculas-precision",
+      "capacity": "1 kg",
+      "precision": "0.1 g",
+      "description": "Precisión de 0.1g con función de conteo de piezas.",
+      "features": ["1 kg / 2.2 lb", "0.1 g", "Función conteo", "Diámetro plato 12 cm"],
+      "badge": "Precisión"
+    },
+    {
+      "id": "BAPRE-3",
+      "name": "BÁSCULA DE PRECISIÓN BAPRE-3",
+      "category": "basculas-precision",
+      "capacity": "3 kg",
+      "precision": "0.2 g",
+      "description": "Alta precisión con plato de acero inoxidable.",
+      "features": ["3 kg / 6.6 lb", "0.2 g / 0.0004 lb", "Plato acero inoxidable", "Clase Fina II"],
+      "badge": "Clase II"
+    },
+    {
+      "id": "BACI-3",
+      "name": "BÁSCULA CIRCULAR BACI-3",
+      "category": "basculas-precision",
+      "capacity": "3 kg",
+      "precision": "0.5 g",
+      "description": "Báscula circular con cálculo de volumen en mililitros.",
+      "features": ["3 kg / 6.6 lb", "0.5 g", "Cálculo volumen", "Diámetro plato 15 cm"],
+      "badge": "Circular"
+    },
+    {
+      "id": "BARAG-5",
+      "name": "BÁSCULA A PRUEBA DE AGUA BARAG-5",
+      "category": "basculas-agua",
+      "capacity": "5 kg",
+      "precision": "1 g",
+      "description": "Grado de protección IPX7. Calcula volumen en mililitros.",
+      "features": ["5 kg / 11 lb", "1 g / 0.1 oz", "IPX7", "Plato ABS 15x15 cm"],
+      "badge": "IPX7"
+    },
+    {
+      "id": "BARAG-40",
+      "name": "BÁSCULA A PRUEBA DE AGUA BARAG-40",
+      "category": "basculas-agua",
+      "capacity": "40 kg",
+      "precision": "5 g",
+      "description": "Grado de protección IP66. Para ambientes húmedos.",
+      "features": ["40 kg / 88 lb", "5 g / 0.01 lb", "IP66", "Plato 28x22 cm"],
+      "badge": "IP66"
+    },
+    {
+      "id": "BAPAG-200",
+      "name": "PLATAFORMA A PRUEBA DE AGUA BAPAG-200",
+      "category": "basculas-agua",
+      "capacity": "200 kg",
+      "precision": "20 g",
+      "description": "Plataforma con grado de protección IP67 en indicador.",
+      "features": ["200 kg / 440 lb", "20 g / 0.044 lb", "IP67 indicador", "Plato 40x50 cm"],
+      "badge": "IP67"
+    },
+    {
+      "id": "BAET-30",
+      "name": "BÁSCULA ETIQUETADORA BAET-30",
+      "category": "basculas-etiquetadoras",
+      "capacity": "30 kg",
+      "precision": "5 g / 10 g",
+      "description": "Memoria para 2,000 artículos. Comunicación en red hasta 5 básculas.",
+      "features": ["30 kg / 66 lb", "5g/10g multirango", "2,000 artículos", "Ethernet"],
+      "badge": "Etiquetadora"
+    },
+    {
+      "id": "BAET-30X",
+      "name": "BÁSCULA ETIQUETADORA BAET-30X",
+      "category": "basculas-etiquetadoras",
+      "capacity": "30 kg",
+      "precision": "5 g / 10 g",
+      "description": "Con Ethernet y WiFi. Sistema impresor de alta calidad.",
+      "features": ["30 kg / 66 lb", "Ethernet y WiFi", "Pantalla 6\"", "Software incluido"],
+      "badge": "WiFi"
+    },
+    {
+      "id": "BAC-20",
+      "name": "BÁSCULA COLGANTE BAC-20",
+      "category": "basculas-colgantes",
+      "capacity": "20 kg",
+      "precision": "10 g",
+      "description": "Diseño compacto y ligero (200g). Batería de larga duración.",
+      "features": ["20 kg / 44 lb", "10 g / 0.02 lb", "Ligera 200g", "Batería incluida"],
+      "badge": "Ligera"
+    },
+    {
+      "id": "BACMU-30",
+      "name": "BÁSCULA COLGANTE BACMU-30",
+      "category": "basculas-colgantes",
+      "capacity": "30 kg",
+      "precision": "5 g",
+      "description": "Diseño ultraligero (750g). Gancho tipo \"S\" para mayor resistencia.",
+      "features": ["30 kg / 66 lb", "5 g / 0.01 lb", "750g peso", "Gancho acero"],
+      "badge": "Ultraligera"
+    },
+    {
+      "id": "BAC-300",
+      "name": "BÁSCULA COLGANTE BAC-300",
+      "category": "basculas-colgantes",
+      "capacity": "300 kg",
+      "precision": "100 g",
+      "description": "Carcasa de aluminio. Control remoto incluido.",
+      "features": ["300 kg / 660 lb", "100 g / 0.2 lb", "Aluminio", "Control remoto"],
+      "badge": "300 kg"
+    },
+    {
+      "id": "BAC-500",
+      "name": "BÁSCULA COLGANTE BAC-500",
+      "category": "basculas-colgantes",
+      "capacity": "500 kg",
+      "precision": "200 g",
+      "description": "Operación a distancia de 20 metros. Batería 100 horas.",
+      "features": ["500 kg / 1,100 lb", "200 g / 0.4 lb", "20m distancia", "100 horas batería"],
+      "badge": "Control Remoto"
+    },
+    {
+      "id": "BAC-1T",
+      "name": "BÁSCULA COLGANTE BAC-1T",
+      "category": "basculas-colgantes",
+      "capacity": "1 ton",
+      "precision": "500 g",
+      "description": "1 tonelada de capacidad. Gancho con clip de seguridad.",
+      "features": ["1 ton / 2,200 lb", "500 g / 1 lb", "Clip seguridad", "Aluminio"],
+      "badge": "1 Ton"
+    },
+    {
+      "id": "BAC-5T",
+      "name": "BÁSCULA COLGANTE BAC-5T",
+      "category": "basculas-colgantes",
+      "capacity": "5 ton",
+      "precision": "2 kg",
+      "description": "5 toneladas de capacidad. Diseño robusto.",
+      "features": ["5 ton / 11,000 lb", "2 kg / 4 lb", "Aleación acero", "1 año garantía"],
+      "badge": "5 Ton"
+    },
+    {
+      "id": "BAC-10T",
+      "name": "BÁSCULA COLGANTE BAC-10T",
+      "category": "basculas-colgantes",
+      "capacity": "10 ton",
+      "precision": "5 kg",
+      "description": "10 toneladas. Control remoto incluido.",
+      "features": ["10 ton / 20,200 lb", "5 kg / 11 lb", "Control remoto", "Aluminio"],
+      "badge": "10 Ton"
+    },
+    {
+      "id": "BAC-20T",
+      "name": "BÁSCULA COLGANTE BAC-20T",
+      "category": "basculas-colgantes",
+      "capacity": "20 ton",
+      "precision": "10 kg",
+      "description": "20 toneladas. Carcasa de hierro fundido.",
+      "features": ["20 ton / 40,400 lb", "10 kg / 22 lb", "Hierro fundido", "Gancho seguridad"],
+      "badge": "20 Ton"
+    },
+    {
+      "id": "BAPAQUE-100",
+      "name": "BÁSCULA DE PAQUETERÍA BAPAQUE-100",
+      "category": "basculas-colgantes",
+      "capacity": "100 kg",
+      "precision": "50 g",
+      "description": "Báscula de paquetería con 4 celdas de carga.",
+      "features": ["100 kg / 220 lb", "50 g / 0.1 lb", "4 celdas carga", "Plato 21 cm"],
+      "badge": "Paquetería"
+    },
+    {
+      "id": "BAPCA-80",
+      "name": "BÁSCULA DE PLATAFORMA PLEGABLE BAPCA-80",
+      "category": "basculas-plataforma",
+      "capacity": "80 kg",
+      "precision": "10 g",
+      "description": "Plataforma plegable de acero al carbono. Fácil transportación.",
+      "features": ["80 kg / 176 lb", "10 g / 0.02 lb", "Acero al carbono", "Plato 31x35 cm"],
+      "badge": "Plegable"
+    },
+    {
+      "id": "BAPCA-100",
+      "name": "BÁSCULA DE PLATAFORMA PLEGABLE BAPCA-100",
+      "category": "basculas-plataforma",
+      "capacity": "100 kg",
+      "precision": "10 g",
+      "description": "Sistema plegable fácil de operar. Indicador de acero al carbono.",
+      "features": ["100 kg / 220 lb", "10 g / 0.02 lb", "Sistema plegable", "Plato 32x42 cm"],
+      "badge": "100 kg"
+    },
+    {
+      "id": "BAPCA-200",
+      "name": "BÁSCULA DE PLATAFORMA PLEGABLE BAPCA-200",
+      "category": "basculas-plataforma",
+      "capacity": "200 kg",
+      "precision": "20 g",
+      "description": "Mayor capacidad con sistema plegable. Ideal para bodegas.",
+      "features": ["200 kg / 440 lb", "20 g / 0.04 lb", "Plegable", "Plato 39x49 cm"],
+      "badge": "200 kg"
+    },
+    {
+      "id": "BAPCA-500",
+      "name": "BÁSCULA DE PLATAFORMA PLEGABLE BAPCA-500",
+      "category": "basculas-plataforma",
+      "capacity": "500 kg",
+      "precision": "50 g",
+      "description": "Máxima capacidad en plataforma plegable. Indicador robusto.",
+      "features": ["500 kg / 1,100 lb", "50 g / 0.1 lb", "Plegable", "Plato 45x60 cm"],
+      "badge": "500 kg"
+    },
+    {
+      "id": "BP-80",
+      "name": "PLATAFORMA PLEGABLE BP-80",
+      "category": "basculas-plataforma",
+      "capacity": "80 kg",
+      "precision": "10 g",
+      "description": "Plato de acero inoxidable. Indicador y teclado de acero inoxidable.",
+      "features": ["80 kg / 176 lb", "10 g / 0.02 lb", "Acero inoxidable", "Barras de soporte"],
+      "badge": "Inoxidable"
+    },
+    {
+      "id": "BP-200",
+      "name": "PLATAFORMA PLEGABLE BP-200",
+      "category": "basculas-plataforma",
+      "capacity": "200 kg",
+      "precision": "20 g",
+      "description": "Sistema plegable con plato de acero inoxidable.",
+      "features": ["200 kg / 440 lb", "20 g / 0.04 lb", "Acero inoxidable", "Plato 39x49 cm"],
+      "badge": "Inoxidable"
+    },
+    {
+      "id": "BP-500",
+      "name": "PLATAFORMA PLEGABLE BP-500",
+      "category": "basculas-plataforma",
+      "capacity": "500 kg",
+      "precision": "50 g",
+      "description": "Plataforma plegable de acero inoxidable de alta capacidad.",
+      "features": ["500 kg / 1,100 lb", "50 g / 0.1 lb", "Acero inoxidable", "Plato 50x60 cm"],
+      "badge": "500 kg"
+    },
+    {
+      "id": "BP-600",
+      "name": "PLATAFORMA PLEGABLE BP-600",
+      "category": "basculas-plataforma",
+      "capacity": "600 kg",
+      "precision": "100 g",
+      "description": "Máxima capacidad con plato de acero inoxidable.",
+      "features": ["600 kg / 1,320 lb", "100 g / 0.22 lb", "Acero inoxidable", "Plato 60x80 cm"],
+      "badge": "600 kg"
+    },
+    {
+      "id": "BAPLE-60",
+      "name": "BÁSCULA DE PLATAFORMA INOXIDABLE BAPLE-60",
+      "category": "basculas-plataforma",
+      "capacity": "60 kg",
+      "precision": "10 g",
+      "description": "Indicadores de plástico ABS. Fácil transportación.",
+      "features": ["60 kg / 132 lb", "10 g / 0.02 lb", "ABS", "Plataforma 30x34 cm"],
+      "badge": "Nuevo"
+    },
+    {
+      "id": "BAPLE-100",
+      "name": "BÁSCULA DE PLATAFORMA INOXIDABLE BAPLE-100",
+      "category": "basculas-plataforma",
+      "capacity": "100 kg",
+      "precision": "20 g",
+      "description": "Sistema plegable con plataforma de acero al carbono.",
+      "features": ["100 kg / 220 lb", "20 g / 0.04 lb", "Acero al carbono", "Plataforma 30x40 cm"],
+      "badge": "Nuevo"
+    },
+    {
+      "id": "BAPLE-200",
+      "name": "BÁSCULA DE PLATAFORMA INOXIDABLE BAPLE-200",
+      "category": "basculas-plataforma",
+      "capacity": "200 kg",
+      "precision": "50 g",
+      "description": "Mayor capacidad con sistema plegable.",
+      "features": ["200 kg / 440 lb", "50 g / 0.1 lb", "Acero al carbono", "Plataforma 40x50 cm"],
+      "badge": "Nuevo"
+    },
+    {
+      "id": "BAPLE-400",
+      "name": "BÁSCULA DE PLATAFORMA INOXIDABLE BAPLE-400",
+      "category": "basculas-plataforma",
+      "capacity": "400 kg",
+      "precision": "100 g",
+      "description": "Máxima capacidad en plataforma plegable.",
+      "features": ["400 kg / 880 lb", "100 g / 0.22 lb", "Acero al carbono", "Plataforma 50x60 cm"],
+      "badge": "Nuevo"
+    },
+    {
+      "id": "BAPIC-300",
+      "name": "BÁSCULA DE PLATAFORMA INALÁMBRICA BAPIC-300",
+      "category": "basculas-plataforma",
+      "capacity": "300 kg",
+      "precision": "100 g",
+      "description": "Operación de pesaje a distancia de 8 metros.",
+      "features": ["300 kg / 660 lb", "100 g / 0.22 lb", "Inalámbrica", "Celdas de carga"],
+      "badge": "Inalámbrica"
+    },
+    {
+      "id": "BAVET-200",
+      "name": "PLATAFORMA VETERINARIA BAVET-200",
+      "category": "basculas-plataforma",
+      "capacity": "200 kg",
+      "precision": "100 g",
+      "description": "Plataforma rectangular con 4 celdas de carga.",
+      "features": ["200 kg / 440 lb", "100 g / 0.22 lb", "4 celdas carga", "60x90 cm"],
+      "badge": "Veterinaria"
+    },
+    {
+      "id": "BAGAME-800",
+      "name": "PLATAFORMA PARA GANADO MENOR BAGAME-800",
+      "category": "basculas-plataforma",
+      "capacity": "800 kg",
+      "precision": "200 g",
+      "description": "2 puertas delanteras y traseras con seguros.",
+      "features": ["800 kg / 1,764 lb", "200 g / 0.44 lb", "2 puertas", "170x90 cm"],
+      "badge": "Ganado"
+    },
+    {
+      "id": "BACITA-5BL",
+      "name": "BÁSCULA CIRCULAR CON TAZÓN BACITA-5BL",
+      "category": "basculas-5kg",
+      "capacity": "5 kg",
+      "precision": "1 g",
+      "description": "Tazón desmontable de 900 ml. Soporte de acero.",
+      "features": ["5 kg / 11 lb", "1 g / 0.1 oz", "Tazón 900 ml", "Diámetro tazón 18 cm"],
+      "badge": "Con Tazón"
+    },
+    {
+      "id": "BACITA-5",
+      "name": "BÁSCULA CIRCULAR CON TAZÓN BACITA-5",
+      "category": "basculas-5kg",
+      "capacity": "5 kg",
+      "precision": "1 g",
+      "description": "Calcula volumen en mililitros y onzas. Tazón desmontable.",
+      "features": ["5 kg / 11 lb", "1 g / 0.1 oz", "Cálculo volumen", "Tazón 900 ml"],
+      "badge": "Volumen"
+    },
+    {
+      "id": "BACI-5",
+      "name": "BÁSCULA CIRCULAR BACI-5",
+      "category": "basculas-5kg",
+      "capacity": "5 kg",
+      "precision": "1 g",
+      "description": "Soporte de acero para mayor precisión. Plato con relieve.",
+      "features": ["5 kg / 11 lb", "1 g / 0.1 oz", "Soporte acero", "Plato 17 cm"],
+      "badge": "Circular"
+    },
+    {
+      "id": "BACI-5X",
+      "name": "BÁSCULA CIRCULAR PLATO DE ACERO INOXIDABLE BACI-5X",
+      "category": "basculas-5kg",
+      "capacity": "5 kg",
+      "precision": "1 g",
+      "description": "Plato de acero inoxidable. Calcula volumen.",
+      "features": ["5 kg / 11 lb", "1 g / 0.1 oz", "Acero inoxidable", "Diámetro 15 cm"],
+      "badge": "Inoxidable"
+    },
+    {
+      "id": "BAREC-5A",
+      "name": "BÁSCULA PLATO DE ACERO INOXIDABLE BAREC-5A",
+      "category": "basculas-5kg",
+      "capacity": "5 kg",
+      "precision": "1 g",
+      "description": "Superficie de acero inoxidable. Mayor durabilidad.",
+      "features": ["5 kg / 11 lb", "1 g / 0.1 oz", "Acero inoxidable", "15.5x20.5 cm"],
+      "badge": "Inoxidable"
+    },
+    {
+      "id": "BACRI-5M",
+      "name": "BÁSCULA PLATO DE CRISTAL TEMPLADO BACRI-5M",
+      "category": "basculas-5kg",
+      "capacity": "5 kg",
+      "precision": "1 g",
+      "description": "Diseño ultradelgado con plato de cristal templado.",
+      "features": ["5 kg / 11 lb", "1 g / 0.1 oz", "Cristal templado", "14x19.5 cm"],
+      "badge": "Cristal"
+    },
+    {
+      "id": "BAMBU-5",
+      "name": "BÁSCULA PLATO DE BAMBÚ BAMBU-5",
+      "category": "basculas-5kg",
+      "capacity": "5 kg",
+      "precision": "1 g",
+      "description": "Plato de bambú natural. Diseño ecológico.",
+      "features": ["5 kg / 11 lb", "1 g / 0.1 oz", "Bambú", "18.8x21.8 cm"],
+      "badge": "Eco"
+    },
+    {
+      "id": "BAREC-5",
+      "name": "BÁSCULA COLGABLE BAREC-5",
+      "category": "basculas-5kg",
+      "capacity": "5 kg",
+      "precision": "1 g",
+      "description": "Orificio para colgarse. Fácil almacenamiento.",
+      "features": ["5 kg / 11 lb", "1 g / 0.1 oz", "Colgante", "Plástico HIPS"],
+      "badge": "Colgante"
+    },
+    {
+      "id": "VINS-5",
+      "name": "BÁSCULA CIRCULAR VINS-5",
+      "category": "basculas-5kg",
+      "capacity": "5 kg",
+      "precision": "1 g",
+      "description": "Diseño con botones touch. Orificio para colgarse.",
+      "features": ["5 kg / 11 lb", "1 g / 0.1 oz", "Botones touch", "Diámetro 14 cm"],
+      "badge": "Touch"
+    },
+    {
+      "id": "BABAIN-180BL",
+      "name": "BÁSCULA INTELIGENTE DE PESAJE CORPORAL BABAIN-180BL",
+      "category": "basculas-corporales",
+      "capacity": "180 kg",
+      "precision": "100 g",
+      "description": "Conexión Bluetooth a smartphone. Medición de estadísticas corporales.",
+      "features": ["180 kg / 400 lb", "100 g / 0.2 lb", "Bluetooth", "App Fit Days"],
+      "badge": "Bluetooth"
+    },
+    {
+      "id": "BABAIN-180NG",
+      "name": "BÁSCULA INTELIGENTE DE PESAJE CORPORAL BABAIN-180NG",
+      "category": "basculas-corporales",
+      "capacity": "180 kg",
+      "precision": "100 g",
+      "description": "Misma funcionalidad que BABAIN-180BL en color naranja.",
+      "features": ["180 kg / 400 lb", "100 g / 0.2 lb", "Bluetooth", "26x26 cm"],
+      "badge": "Inteligente"
+    },
+    {
+      "id": "BABA-180M",
+      "name": "BÁSCULA CORPORAL BABA-180M",
+      "category": "basculas-corporales",
+      "capacity": "180 kg",
+      "precision": "100 g",
+      "description": "Diseño compacto con 4 sensores de carga.",
+      "features": ["180 kg / 400 lb", "100 g / 0.2 lb", "4 sensores", "Cristal templado"],
+      "badge": "Digital"
+    },
+    {
+      "id": "BABA-180",
+      "name": "BÁSCULA CORPORAL BABA-180",
+      "category": "basculas-corporales",
+      "capacity": "180 kg",
+      "precision": "100 g",
+      "description": "Sistema con 4 sensores de carga. Material resistente.",
+      "features": ["180 kg / 400 lb", "100 g / 0.2 lb", "4 sensores", "26x26 cm"],
+      "badge": "Económica"
+    },
+    {
+      "id": "BAPET-2",
+      "name": "BÁSCULA DE TAZÓN PARA MASCOTAS BAPET-2",
+      "category": "basculas-mascotas",
+      "capacity": "2 kg",
+      "precision": "1 g",
+      "description": "Tazón con capacidad de 600 ml. Grado de protección IPX5.",
+      "features": ["2 kg / 4.4 lb", "1 g / 0.1 oz", "Tazón 600 ml", "IPX5"],
+      "badge": "Mascotas"
+    },
+    {
+      "id": "BABE-25",
+      "name": "BÁSCULA PARA BEBÉS BABE-25",
+      "category": "basculas-bebes",
+      "capacity": "25 kg",
+      "precision": "5 g",
+      "description": "Diseño ergonómico tipo cuna. Función de historial de pesaje.",
+      "features": ["25 kg / 55 lb", "5 g / 0.01 lb", "Tipo cuna", "Historial"],
+      "badge": "Bebés"
+    },
+    {
+      "id": "BAMA-50",
+      "name": "BÁSCULA PARA MALETAS BAMA-50",
+      "category": "basculas-corporales",
+      "capacity": "50 kg",
+      "precision": "50 g",
+      "description": "Diseño compacto y resistente. Indicador de sobrecarga.",
+      "features": ["50 kg / 110 lb", "50 g / 0.1 lb", "Compacto", "1.5 kg peso"],
+      "badge": "Viaje"
+    },
+    {
+      "id": "I-PEP",
+      "name": "INDICADOR PESO, PRECIO Y TOTAL I-PEP",
+      "category": "indicadores",
+      "capacity": "Programable",
+      "precision": "15,000 divisiones",
+      "description": "Panel con pantallas de peso, precio y total. 4 memorias de acceso directo.",
+      "features": ["15,000 divisiones", "4 memorias", "Cálculo de cambio", "USB"],
+      "badge": "Peso/Precio"
+    },
+    {
+      "id": "I-PES",
+      "name": "INDICADOR PESO, CONTADOR DE PIEZAS I-PES",
+      "category": "indicadores",
+      "capacity": "Programable",
+      "precision": "15,000 divisiones",
+      "description": "Función conteo de piezas y cálculo de porciones. Pantalla grande.",
+      "features": ["15,000 divisiones", "Conteo piezas", "Cálculo porciones", "USB"],
+      "badge": "Contador"
+    },
+    {
+      "id": "I-SEP",
+      "name": "INDICADOR PESO, PRECIO Y TOTAL I-SEP",
+      "category": "indicadores",
+      "capacity": "Programable",
+      "precision": "15,000 divisiones",
+      "description": "Función pesaje de animales. Conector USB.",
+      "features": ["15,000 divisiones", "Pesaje animales", "USB", "LED display"],
+      "badge": "Animales"
+    },
+    {
+      "id": "I-PAG",
+      "name": "INDICADOR A PRUEBA DE AGUA I-PAG",
+      "category": "indicadores",
+      "capacity": "Programable",
+      "precision": "30,000 divisiones",
+      "description": "Grado de protección IP67. Función pesaje de animales.",
+      "features": ["30,000 divisiones", "IP67", "Acero inoxidable", "3 pines"],
+      "badge": "IP67"
+    },
+    {
+      "id": "I-QY",
+      "name": "INDICADOR PESO CONTADOR I-QY",
+      "category": "indicadores",
+      "capacity": "Programable",
+      "precision": "30,000 divisiones",
+      "description": "Conexión a PC o impresora. Función conteo de piezas.",
+      "features": ["30,000 divisiones", "RS-232 y USB", "Conteo piezas", "Pantalla 4 cm"],
+      "badge": "PC/Printer"
+    },
+    {
+      "id": "I-QYW",
+      "name": "INDICADOR PESO CONTADOR INALÁMBRICO I-QYW",
+      "category": "indicadores",
+      "capacity": "Programable",
+      "precision": "30,000 divisiones",
+      "description": "Transmisor con señal inalámbrica. Hasta 20 metros.",
+      "features": ["30,000 divisiones", "Inalámbrico", "20m alcance", "Batería 6V"],
+      "badge": "Inalámbrico"
+    },
+    {
+      "id": "BATI-7",
+      "name": "BATIDORA BATI-7",
+      "category": "batidoras",
+      "capacity": "7 Litros",
+      "precision": "0.6 kg amasado",
+      "description": "10 velocidades de trabajo. Cubierta plástica protectora.",
+      "features": ["7 litros", "0.6 kg amasado", "1/2 hp", "0-780 RPM"],
+      "badge": "7L"
+    },
+    {
+      "id": "BATI-10",
+      "name": "BATIDORA PLANETARIA BATI-10",
+      "category": "batidoras",
+      "capacity": "10 Litros",
+      "precision": "1.5 kg amasado",
+      "description": "3 velocidades con palanca de elevación. Reja protectora.",
+      "features": ["10 litros", "1.5 kg amasado", "3/5 hp", "110 V"],
+      "badge": "10L"
+    },
+    {
+      "id": "BATI-20",
+      "name": "BATIDORA PLANETARIA BATI-20",
+      "category": "batidoras",
+      "capacity": "20 Litros",
+      "precision": "4.5 kg amasado",
+      "description": "3 velocidades. Manivela para ajustar altura del tazón.",
+      "features": ["20 litros", "4.5 kg amasado", "1 hp", "Acero"],
+      "badge": "20L"
+    },
+    {
+      "id": "BATI-30",
+      "name": "BATIDORA PLANETARIA BATI-30",
+      "category": "batidoras",
+      "capacity": "26.5 Litros",
+      "precision": "5.25 kg amasado",
+      "description": "Mayor capacidad con palanca de elevación.",
+      "features": ["26.5 litros", "5.25 kg amasado", "1.5 hp", "127 V"],
+      "badge": "26.5L"
+    },
+    {
+      "id": "BATI-40X",
+      "name": "BATIDORA PLANETARIA BATI-40X",
+      "category": "batidoras",
+      "capacity": "40 Litros",
+      "precision": "9 kg amasado",
+      "description": "2 hp con palanca para ajustar altura del tazón.",
+      "features": ["40 litros", "9 kg amasado", "2 hp", "127 V"],
+      "badge": "40L"
+    },
+    {
+      "id": "BATI-60",
+      "name": "BATIDORA PLANETARIA BATI-60",
+      "category": "batidoras",
+      "capacity": "60 Litros",
+      "precision": "12 kg amasado",
+      "description": "Máxima capacidad. Motor 2.5 hp trifásico.",
+      "features": ["60 litros", "12 kg amasado", "2.5 hp", "220 V trifásico"],
+      "badge": "60L"
+    },
+    {
+      "id": "BAVIN-20",
+      "name": "BATIDORA PLANETARIA BAVIN-20",
+      "category": "batidoras",
+      "capacity": "20 Litros",
+      "precision": "3 kg amasado",
+      "description": "Nuevo modelo con diseño mejorado.",
+      "features": ["20 litros", "3 kg amasado", "1 hp", "105-127 V"],
+      "badge": "Nuevo"
+    },
+    {
+      "id": "AMASA-20",
+      "name": "AMASADORA AMASA-20",
+      "category": "amasadoras",
+      "capacity": "20 Litros",
+      "precision": "12 kg amasado",
+      "description": "Temporizador de 60 minutos. Botón de paro de emergencia.",
+      "features": ["20 litros", "12 kg amasado", "1.5 hp", "127 V"],
+      "badge": "20L"
+    },
+    {
+      "id": "AMASA-40",
+      "name": "AMASADORA AMASA-40",
+      "category": "amasadoras",
+      "capacity": "40 Litros",
+      "precision": "24 kg amasado",
+      "description": "Mayor capacidad con reja protectora.",
+      "features": ["40 litros", "24 kg amasado", "4 hp", "200-220 V"],
+      "badge": "40L"
+    },
+    {
+      "id": "AMASA-50",
+      "name": "AMASADORA AMASA-50",
+      "category": "amasadoras",
+      "capacity": "50 Litros",
+      "precision": "30 kg amasado",
+      "description": "Máxima capacidad para producción industrial.",
+      "features": ["50 litros", "30 kg amasado", "4 hp", "200-220 V bifásico"],
+      "badge": "50L"
+    },
+    {
+      "id": "MOCA-12",
+      "name": "MOLINO DE CARNE MOCA-12",
+      "category": "molinos-carne",
+      "capacity": "Cedazo 12",
+      "precision": "1 hp",
+      "description": "Unidad de molienda desmontable. Gusano y corona de acero inoxidable.",
+      "features": ["Cedazo 12", "1 hp", "Acero inoxidable", "Charola 21x32 cm"],
+      "badge": "12\""
+    },
+    {
+      "id": "MOCA-22-M1",
+      "name": "MOLINO DE CARNE MOCA-22-M1",
+      "category": "molinos-carne",
+      "capacity": "Cedazo 22",
+      "precision": "1 hp",
+      "description": "Cedazo y navaja de 22. Sistema de engranaje robusto.",
+      "features": ["Cedazo 22", "1 hp", "Aluminio", "Charola 30.5x60.5 cm"],
+      "badge": "22\""
+    },
+    {
+      "id": "MOLAI-22",
+      "name": "MOLINO DE CARNE MOLAI-22",
+      "category": "molinos-carne",
+      "capacity": "Cedazo 22",
+      "precision": "2 hp",
+      "description": "Mayor torque con 3 engranes y 1 piñón.",
+      "features": ["Cedazo 22", "2 hp", "3 engranes", "Charola 50x65 cm"],
+      "badge": "2 hp"
+    },
+    {
+      "id": "TURLIC-280",
+      "name": "TURBOLICUADOR TURLIC-280",
+      "category": "turbolicuadores",
+      "capacity": "10 Litros",
+      "precision": "280 watts",
+      "description": "Regulador de velocidad variable. Navajas de acero inoxidable.",
+      "features": ["10 litros", "280 watts", "6000-20000 RPM", "Brazo 24 cm"],
+      "badge": "280W"
+    },
+    {
+      "id": "TURLIC-650",
+      "name": "TURBOLICUADOR TURLIC-650",
+      "category": "turbolicuadores",
+      "capacity": "180 Litros",
+      "precision": "650 watts",
+      "description": "Botón de bloqueo automático. Mayor capacidad.",
+      "features": ["180 litros", "650 watts", "8000-18000 RPM", "Brazo 50.5 cm"],
+      "badge": "650W"
+    },
+    {
+      "id": "TURLIC-850",
+      "name": "TURBOLICUADOR TURLIC-850",
+      "category": "turbolicuadores",
+      "capacity": "240 Litros",
+      "precision": "850 watts",
+      "description": "Máxima potencia y capacidad para uso industrial.",
+      "features": ["240 litros", "850 watts", "8000-18000 RPM", "Brazo 57 cm"],
+      "badge": "850W"
+    },
+    {
+      "id": "SLI-250",
+      "name": "REBANADORA SLI-250",
+      "category": "rebanadoras",
+      "capacity": "250 mm",
+      "precision": "1/5 hp",
+      "description": "Perilla ajustable para grosor. Afilador incorporado.",
+      "features": ["250 mm cuchilla", "0.5-8 mm grosor", "1/5 hp", "Aluminio"],
+      "badge": "250mm"
+    },
+    {
+      "id": "SLI-275",
+      "name": "REBANADORA SLI-275",
+      "category": "rebanadoras",
+      "capacity": "275 mm",
+      "precision": "1/4 hp",
+      "description": "Sistema inclinado. Cuchilla de acero al cromo duro.",
+      "features": ["275 mm cuchilla", "0.5-8 mm grosor", "1/4 hp", "Cromo duro"],
+      "badge": "275mm"
+    },
+    {
+      "id": "SLI-300",
+      "name": "REBANADORA SLI-300",
+      "category": "rebanadoras",
+      "capacity": "300 mm",
+      "precision": "1/3 hp",
+      "description": "Mayor capacidad. Ancho de rebanadas de 1 a 13 mm.",
+      "features": ["300 mm cuchilla", "1-13 mm grosor", "1/3 hp", "Profesional"],
+      "badge": "300mm"
+    },
+    {
+      "id": "PROAL-550",
+      "name": "PROCESADOR DE ALIMENTOS PROAL-550",
+      "category": "procesador-alimentos",
+      "capacity": "3/4 HP",
+      "precision": "550 watts",
+      "description": "Incluye 5 discos. Entrada circular y semicircular.",
+      "features": ["3/4 HP", "550 watts", "5 discos incluidos", "Aluminio anodizado"],
+      "badge": "5 Discos"
+    },
+    {
+      "id": "SICA-295",
+      "name": "SIERRA CARNICERA SICA-295",
+      "category": "sierra-carnicera",
+      "capacity": "295 cm",
+      "precision": "1.5 hp",
+      "description": "Corte de T-bone, Top, Sirloin, Tomahawk y más.",
+      "features": ["295 cm cinta", "1.5 hp", "Acero inoxidable", "40 cm altura corte"],
+      "badge": "Profesional"
+    },
+    {
+      "id": "EVAC-4",
+      "name": "EMPACADORA AL VACÍO EVAC-4",
+      "category": "empacadoras-vacio",
+      "capacity": "4 m3/h",
+      "precision": "150 watts",
+      "description": "Ciclos configurados. Barra de sellado de 21 cm.",
+      "features": ["4 m³/h", "150 watts", "21 cm sellado", "Acero inoxidable"],
+      "badge": "4 m³/h"
+    },
+    {
+      "id": "EVAC-8",
+      "name": "EMPACADORA AL VACÍO EVAC-8",
+      "category": "empacadoras-vacio",
+      "capacity": "8 m3/h",
+      "precision": "250 watts",
+      "description": "5 ciclos preconfigurados. Doble barra de sellado.",
+      "features": ["8 m³/h", "250 watts", "41 cm sellado", "Inyección gas"],
+      "badge": "8 m³/h"
+    },
+    {
+      "id": "EVAC-20",
+      "name": "EMPACADORA AL VACÍO EVAC-20",
+      "category": "empacadoras-vacio",
+      "capacity": "20 m3/h",
+      "precision": "900 watts",
+      "description": "Llantas para transportación con freno.",
+      "features": ["20 m³/h", "900 watts", "51 cm sellado", "Cámara 45x45x14 cm"],
+      "badge": "900W"
+    },
+    {
+      "id": "EVAC-20P",
+      "category": "empacadoras-vacio",
+      "name": "EMPACADORA AL VACÍO EVAC-20P",
+      "capacity": "20 m3/h",
+      "precision": "900 watts",
+      "description": "Función de empacado con inyección de gas.",
+      "features": ["20 m³/h", "900 watts", "Doble barra", "Inyección gas"],
+      "badge": "Gas"
+    },
+    {
+      "id": "EVAC-40",
+      "name": "EMPACADORA AL VACÍO EVAC-40",
+      "category": "empacadoras-vacio",
+      "capacity": "40 m3/h",
+      "precision": "1,500 watts",
+      "description": "Doble cámara de vacío. 4 barras de sellado.",
+      "features": ["40 m³/h", "1,500 watts", "4 barras", "Doble cámara"],
+      "badge": "Doble Cámara"
+    },
+    {
+      "id": "EVAC-40X",
+      "name": "EMPACADORA AL VACÍO EVAC-40X",
+      "category": "empacadoras-vacio",
+      "capacity": "40 m3/h",
+      "precision": "1,800 watts",
+      "description": "Campana de acero inoxidable. Potencia mejorada.",
+      "features": ["40 m³/h", "1,800 watts", "Acero inoxidable", "Llantas con freno"],
+      "badge": "Nuevo"
+    },
+    {
+      "id": "EVAC-60",
+      "name": "EMPACADORA AL VACÍO EVAC-60",
+      "category": "empacadoras-vacio",
+      "capacity": "60 m3/h",
+      "precision": "2,700 watts",
+      "description": "Máxima capacidad. 4 barras de sellado de 59 cm.",
+      "features": ["60 m³/h", "2,700 watts", "4 barras", "Cámara 64x42x18 cm"],
+      "badge": "60 m³/h"
+    },
+    {
+      "id": "SELIM-200",
+      "name": "SELLADORA DE IMPULSO SELIM-200",
+      "category": "selladoras",
+      "capacity": "300 w",
+      "precision": "20 cm",
+      "description": "Temporizador de 8 segundos. Barra de 20 cm.",
+      "features": ["300 watts", "20 cm barra", "8 segundos", "Repuestos incluidos"],
+      "badge": "20cm"
+    },
+    {
+      "id": "SELIM-300",
+      "name": "SELLADORA DE IMPULSO SELIM-300",
+      "category": "selladoras",
+      "capacity": "400 w",
+      "precision": "30 cm",
+      "description": "Mayor potencia y longitud de sellado.",
+      "features": ["400 watts", "30 cm barra", "Polipropileno", "400 watts"],
+      "badge": "30cm"
+    },
+    {
+      "id": "SELIM-400",
+      "name": "SELLADORA DE IMPULSO SELIM-400",
+      "category": "selladoras",
+      "capacity": "500 w",
+      "precision": "40 cm",
+      "description": "Máxima capacidad para sellado industrial.",
+      "features": ["500 watts", "40 cm barra", "Industrial", "Repuestos incluidos"],
+      "badge": "40cm"
+    },
+    {
+      "id": "EMPA-55",
+      "name": "EMPLAYADORA DE ALIMENTOS EMPA-55",
+      "category": "empleyadora",
+      "capacity": "55 cm",
+      "precision": "400 watts",
+      "description": "Ajuste de rollos hasta 55 cm. Regulador de temperatura.",
+      "features": ["55 cm ancho", "400 watts", "50-300°C", "Acero inoxidable"],
+      "badge": "55cm"
+    },
+    {
+      "id": "PLANPA-1800",
+      "name": "PLANCHA PANINI PLANPA-1800",
+      "category": "plancha-panini",
+      "capacity": "1,800 w",
+      "precision": "50-300°C",
+      "description": "Planchas acanaladas para cocción tipo grill.",
+      "features": ["1,800 watts", "50-300°C", "Planchas acanaladas", "Hierro fundido"],
+      "badge": "1,800W"
+    },
+    {
+      "id": "HELA-25P",
+      "name": "MAQUINA DE HELADOS HELA-25P",
+      "category": "maquina-helados",
+      "capacity": "25 L/hr",
+      "precision": "1 HP",
+      "description": "3 dispensadores (2 sabores y 1 combinado).",
+      "features": ["25 L/hr", "1 hp", "3 dispensadores", "12 litros depósito"],
+      "badge": "Nuevo"
+    }
+  ]
+}
